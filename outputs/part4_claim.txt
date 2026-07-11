@@ -1,0 +1,1 @@
+At 90% sparsity, saliency pruning (|w*g|) retains 97.9% accuracy (± 0.3% across N=3 seeds) versus 97.7% for magnitude pruning (|w|).
